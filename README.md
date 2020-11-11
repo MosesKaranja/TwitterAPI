@@ -1,6 +1,6 @@
-TwitterAPI
+<h1>TwitterAPI</h1>
 \
-Twitter Endpoint - FIltered Stream
+<h2>Twitter Endpoint - FIltered Stream</h2>
 \
 The following app am building is going to interact with the twitter API.
 \

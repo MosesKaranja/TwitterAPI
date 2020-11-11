@@ -1,5 +1,7 @@
 #TwitterAPI
+\
 ##Twitter Endpoint - FIltered Stream
+\
 The following app am building is going to interact with the twitter API.
 \
 Specifically the twitter endpoint **Filtered Stream**.

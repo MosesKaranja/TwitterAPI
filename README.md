@@ -1,9 +1,9 @@
 <h1>TwitterAPI</h1>
-\
+
 <h2>Twitter Endpoint - FIltered Stream</h2>
-\
+
 The following app am building is going to interact with the twitter API.
-\
+<br>
 Specifically the twitter endpoint **Filtered Stream**.
-\
+<br>
 The FS enpoint will is supposed to take twitter content e.g. the latest tweets and perform something with them such as output them on a third party app such as a website.
